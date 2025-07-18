@@ -35,7 +35,7 @@ Before running this project, make sure you have:
 
 ```bash
 git clone https://github.com/dharmveer97/svelte-image-speed-test.git
-cd ashima-static-site
+cd static-site
 ```
 
 ### 2. Install Dependencies
